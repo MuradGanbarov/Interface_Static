@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\bin\Debug\net6.0\Task1_Interface_Static.exe
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\bin\Debug\net6.0\Task1_Interface_Static.deps.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\bin\Debug\net6.0\Task1_Interface_Static.runtimeconfig.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\bin\Debug\net6.0\Task1_Interface_Static.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\bin\Debug\net6.0\Task1_Interface_Static.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\refint\Task1_Interface_Static.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\Task1_Interface_Static.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Task_Interface_Static\obj\Debug\net6.0\ref\Task1_Interface_Static.dll
